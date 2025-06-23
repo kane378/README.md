@@ -8,4 +8,6 @@ hi students
 ```
 hey man wassup this is my GitHub new mini practice
 ```
-
+```
+this is to practice basics of GitHub and it is useful for devops
+```
